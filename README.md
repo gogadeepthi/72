@@ -1,2 +1,2 @@
-# 72
-JS program 2
+let x=10;
+console.log("This is a sample");
